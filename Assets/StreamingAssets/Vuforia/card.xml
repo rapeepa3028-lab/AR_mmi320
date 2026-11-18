@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="16_pierce" size="5.000000 6.982527" />
+    <ImageTarget name="15_water" size="5.000000 6.982527" />
+    <ImageTarget name="14_patient" size="5.000000 6.982527" />
+    <ImageTarget name="13_call" size="5.000000 6.982527" />
+    <ImageTarget name="12_swap" size="5.000000 6.982527" />
+    <ImageTarget name="11_keep_still" size="5.000000 6.982527" />
+    <ImageTarget name="10_splint_diy" size="5.000000 6.982527" />
+    <ImageTarget name="09_move" size="5.000000 6.982527" />
+    <ImageTarget name="08_massage" size="5.000000 6.982527" />
+    <ImageTarget name="07_pull_arm" size="5.000000 6.982527" />
+    <ImageTarget name="06_remove_1" size="5.000000 6.982527" />
+    <ImageTarget name="05_sparkly_cloth" size="5.000000 6.982527" />
+    <ImageTarget name="04_remove_crown" size="5.000000 6.982527" />
+    <ImageTarget name="03_toothpaste" size="5.000000 6.982527" />
+    <ImageTarget name="02_fish_sauce" size="5.000000 6.982527" />
+    <ImageTarget name="01_ice" size="5.000000 6.982527" />
+  </Tracking>
+</QCARConfig>
